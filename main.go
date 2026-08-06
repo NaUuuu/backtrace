@@ -25,9 +25,6 @@ func main() {
 		t = time.After(time.Second * 10)
 	)
 
-	go func() {
-
-	}()
 
 	yellow := color.New(color.FgHiYellow).Add(color.Bold).SprintFunc()
 	green := color.New(color.FgHiGreen).SprintFunc()
