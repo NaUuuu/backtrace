@@ -5,7 +5,7 @@
 </p>
 
 ## 三网回程路由测试
-![](https://raw.githubusercontent.com/zhanghanyun/backtrace/main/assets/test.png)
+![](https://raw.githubusercontent.com/NaUuuu/backtrace/main/assets/test.png)
 
 ## 使用
 终端下运行
